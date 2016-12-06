@@ -1362,7 +1362,7 @@
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #6495ED !important;
+			color: #1F5ED2 !important;
 			text-decoration: none;
 		}
 
@@ -2557,7 +2557,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9ed8b6;
+				background-color: #1F5ED2;
 			}
 
 			input[type="submit"].special:active,
@@ -2565,7 +2565,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #7aca9a;
+				background-color: #BDD3FB;
 			}
 
 			input[type="submit"].special.icon:before,
